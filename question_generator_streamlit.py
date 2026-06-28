@@ -591,6 +591,7 @@ st.markdown("""
         padding: 20px 24px;
         font-size: 1.15rem;
         margin-bottom: 16px;
+        color: #000000 !important;
     }
     .hint-box {
         background: #fff8e1;
@@ -599,6 +600,7 @@ st.markdown("""
         padding: 12px 16px;
         font-size: 0.95rem;
         margin-bottom: 12px;
+        color: #000000 !important;
     }
     .correct-box {
         background: #e8f5e9;
